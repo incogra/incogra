@@ -6,3 +6,7 @@ Canada | Gary Wireman| gawir28 | 2044465976 | GaryWireman19@hotmail.com   | 611 
 Canada | David Bender| daben5660| 2045038664 | DavidBender19@hotmail.com   | 637 Cambridge St Winnipeg, MB R3M 3G1 Canada | 03/03/1990  |  R3Y Bell MTS | First listing
 Canada | Scott Kramer| sckra_270| 2046035541 | ScottKramer19@hotmail.com   | 913 Calrossie Blvd Winnipeg MB R3T 0W9 CA | 03/03/1990  |  R2G Bell MTS | First listing
 Portugal| Bruno Dias| 1500-001| 351914301169 | BrunoDias1918@hotmail.com   | 1746 Macdonald St, Vancouver, BC V6K 3X8, Canada | 03/03/1990  |  1500-001 Nos comu.. | First listing
+Portugal| Igor Cardoso| sckra_270| 351914301169 | IgorCardoso1918@hotmail.com   | Av. do Restelo 29C, Lisboa, Portugal | 03/03/1990  |  1500-001 vodafone | first listing
+Estonia| Adam Seleznev| sckra_270| 37259464518| AdamSeleznev19@hotmail.com   | Nisu 22 10317 Tallinn Estonia | 03/03/1990  |  Telia easti | first listing
+
+
